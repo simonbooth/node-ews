@@ -12,6 +12,7 @@
     "debug": "2.3.3",
     "httpntlm": "1.7.3",
     "lodash": "4.17.2",
+    "ntlm-client": "https://github.com/gautamsi/node-ntlm-client/tarball/master",
     "request": "2.79.0",
     "soap": "https://github.com/cumberlandgroup/node-soap/tarball/master",
     "tmp": "0.0.28",
