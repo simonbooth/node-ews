@@ -14,7 +14,7 @@
     "lodash": "4.17.2",
     "ntlm-client": "gautamsi/node-ntlm-client#e553ca93a873d99d6c2a544a97c5af3180702895",
     "request": "2.79.0",
-    "soap": "cumberlandgroup/node-soap#00c2cd18e32b2237ab213f1998ea6e1ea7f94aff",
+    "soap": "simonbooth/node-soap#00347c2d775f0731ac247ad10dcfd29090b2dd83",
     "tmp": "0.0.28",
     "when": "3.7.7"
   },
